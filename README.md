@@ -19,6 +19,15 @@ If any field is missing, its value is set to `None`.
 
 **Note: for the "status", eBay allows people to put all sorts of information under that box, so in an attempt to get only clean data, I restricted it to only show `new, pre-owned, refurbished, open box, parts, good, excellent, very good` this can easily be editable please see ebay-dl.py**
 
+## Setup (Optional)
+
+Install required packages:
+
+```bash
+pip3 install beautifulsoup4 playwright undetected-playwright
+playwright install
+```
+
 ## How to Run
 
 
