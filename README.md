@@ -66,9 +66,6 @@ python3 ebay-dl.py Hammer --csv
 ```
 
 
-
-## Course Project
-
 ## Course Project
 
 [Project 02: Web Scraping Assignment](https://github.com/mikeizbicki/cmc-csci040/tree/2026spring/project_02_webscraping)
